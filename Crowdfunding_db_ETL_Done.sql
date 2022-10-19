@@ -1,4 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
 CREATE TABLE "campaign" (
     "cf_id" int   NOT NULL,
