@@ -1,5 +1,5 @@
 # Crowdfunding-ETL
-##Overview
+## Overview
 This challenge assignment is intended to help us further our knowlege of the following skills:
 
 ETL skills
